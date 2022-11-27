@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-27T13:24:58 ART" name="Default suite" finished-at="2022-11-27T13:25:07 ART" duration-ms="9246">
+  <suite started-at="2022-11-27T13:48:16 ART" name="Default suite" finished-at="2022-11-27T13:48:21 ART" duration-ms="4648">
     <groups>
     </groups>
-    <test started-at="2022-11-27T13:24:58 ART" name="Default test" finished-at="2022-11-27T13:25:07 ART" duration-ms="9246">
+    <test started-at="2022-11-27T13:48:16 ART" name="Default test" finished-at="2022-11-27T13:48:21 ART" duration-ms="4648">
       <class name="Edit.SauceDemo.Asignacion2">
-        <test-method signature="InicioDeSesion()[pri:0, instance:Edit.SauceDemo.Asignacion2@57a3af25]" started-at="2022-11-27T13:24:58 ART" name="InicioDeSesion" finished-at="2022-11-27T13:25:07 ART" duration-ms="9156" status="PASS">
+        <test-method signature="InicioDeSesion()[pri:0, instance:Edit.SauceDemo.Asignacion2@57a3af25]" started-at="2022-11-27T13:48:16 ART" name="InicioDeSesion" finished-at="2022-11-27T13:48:21 ART" duration-ms="4605" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InicioDeSesion -->
