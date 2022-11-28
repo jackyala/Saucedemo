@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-27T22:06:55 ART" name="Surefire suite" finished-at="2022-11-27T22:06:55 ART" duration-ms="91">
+    <groups>
+    </groups>
+    <test started-at="2022-11-27T22:06:55 ART" name="Surefire test" finished-at="2022-11-27T22:06:55 ART" duration-ms="91">
+      <class name="Edit.SauceDemo.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:Edit.SauceDemo.AppTest@4b44655e]" started-at="2022-11-27T22:06:55 ART" name="shouldAnswerWithTrue" finished-at="2022-11-27T22:06:55 ART" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- Edit.SauceDemo.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
